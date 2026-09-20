@@ -84,8 +84,8 @@ column, a governance rejection, a control-total mismatch — rather than just as
 
 ## Quickstart
 
-Requires Python 3.13+ and [`uv`](https://docs.astral.sh/uv/). Set `ANTHROPIC_API_KEY` in a `.env`
-file (see `.env.example` if present, or just export it).
+Requires Python 3.13+ and [`uv`](https://docs.astral.sh/uv/). Set `API_KEY` in a `.env`
+file
 
 ```bash
 # First run builds the synthetic warehouse automatically
